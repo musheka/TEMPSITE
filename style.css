@@ -1125,3 +1125,8 @@ ul li:not(:last-child) {
         margin-top: 1em;
     }
 }
+
+
+.theme:hover,.review:hover{
+    transform: translateY(-10px);
+}
